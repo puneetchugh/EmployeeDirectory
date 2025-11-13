@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EmployeeDirectory</string>
+    <string name="title">Employee Directory</string>
+    <string name="refresh_button">Refresh</string>
+    <string name="error_state">Error in getting employees data…</string>
+
+</resources>
